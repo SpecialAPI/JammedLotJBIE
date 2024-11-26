@@ -13,7 +13,7 @@ namespace JammedLotJBIE
     {
         public const string GUID = "spapi.etg.jammedlotj";
         public const string NAME = "Jammed Lord of the Jammed";
-        public const string VERSION = "1.0.1";
+        public const string VERSION = "1.1.0";
 
         public void Awake()
         {
